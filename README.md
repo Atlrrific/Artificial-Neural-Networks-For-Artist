@@ -6,8 +6,7 @@ This is an introduction to Neural Networks for people interested on undestanding
 The tutorial is composed of several Jupyter Notebooks which a programming enviroment that  it to visualize and run code line by line or block by block directly on your browser. 
 
 Learn more about jupyter notebook with this vid:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HW29067qVWk" frameborder="0" allowfullscreen></iframe>
-
+https://www.youtube.com/watch?v=HW29067qVWk
 
 The notebooks contains the code and information necessary to undestand simple perceptron neural networks, fully connected and convolutional neural networks which will run directly on your computer. 
 
